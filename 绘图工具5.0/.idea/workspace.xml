@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="绘图工具:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbbf0a9b-ff8a-4551-9325-8d7e0d35b3dd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="绘图工具" />
+    <favorites_list name="list">
+      <favorite_root url="file://$PROJECT_DIR$/src/JavaDraw/DrawCanvas.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="JavaDraw.DrawCanvas void paint(java.awt.Graphics g)" module="绘图工具" type="method" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.MethodSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/LineFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawCurve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/ShapeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#mouseClicked#0;class#ShapeFactory#0" />
+                <element signature="method#mouseEntered#0;class#ShapeFactory#0" />
+                <element signature="method#mouseExited#0;class#ShapeFactory#0" />
+                <element signature="method#mouseMoved#0;class#ShapeFactory#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/RectFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/TriangleFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/DrawJFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#DrawJFrame#0;class#DrawJFrame#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/OvalFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/CurveFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>si</find>
+      <find>size</find>
+      <find>ca</find>
+      <find>sizes</find>
+      <find>line</find>
+      <find>oval</find>
+      <find>rect</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sizes</replace>
+      <replace>size</replace>
+      <replace>curve</replace>
+      <replace>oval</replace>
+      <replace>rect</replace>
+      <replace>triangle</replace>
+      <replace>shape</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MyDraw.java" />
+        <option value="$PROJECT_DIR$/src/MYPAINT.java" />
+        <option value="$PROJECT_DIR$/src/LoanJFramea.java" />
+        <option value="$PROJECT_DIR$/src/LoanJFrame.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Mypanel.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Drawline.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/line.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Drawl.java" />
+        <option value="$PROJECT_DIR$/src/Oval.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/LineB.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Rect.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Oval.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Line.java" />
+        <option value="$PROJECT_DIR$/src/DrawCanvas.java" />
+        <option value="$PROJECT_DIR$/src/DrawJFrame.java" />
+        <option value="$PROJECT_DIR$/src/Draw.form" />
+        <option value="$PROJECT_DIR$/src/Draw.java" />
+        <option value="$PROJECT_DIR$/src/ShapeList.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Draw.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/ShapeList.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/DrawLine.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Shape.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/LineFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/DrawRect.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/DrawOval.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/DrawCurve.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/CurveFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/Eraser.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/test1.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/jhgjy.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/Shape.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/DrawCurve.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/DrawLine.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/DrawOval.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/DrawRect.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/draw/DrawTriangle.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/Style.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/DrawJFrame.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/DrawCanvas.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/LineFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/OvalFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/RectFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/TriangleFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/EraserFactory.java" />
+        <option value="$PROJECT_DIR$/src/JavaDraw/factory/CurveFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1068" />
+    <option name="width" value="1101" />
+    <option name="height" value="1452" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="绘图工具5.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="绘图工具5.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="绘图工具5.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="绘图工具5.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="绘图工具5.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="绘图工具5.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaDraw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="绘图工具5.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="绘图工具5.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaDraw" type="462c0819:PsiDirectoryNode" />
+              <item name="draw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="绘图工具5.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="绘图工具5.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaDraw" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572234111994" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arithmetic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DrawJFrame">
+    <configuration name="DrawJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaDraw.DrawJFrame" />
+      <module name="绘图工具" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaDraw.draw.test1" />
+      <module name="绘图工具" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaDraw.draw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DrawJFrame" />
+        <item itemvalue="Application.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbbf0a9b-ff8a-4551-9325-8d7e0d35b3dd" name="Default Changelist" comment="" />
+      <created>1543218510526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543218510526</updated>
+      <workItem from="1543218526288" duration="176000" />
+      <workItem from="1543218905095" duration="256000" />
+      <workItem from="1543220119746" duration="111000" />
+      <workItem from="1543226400703" duration="1549000" />
+      <workItem from="1543228008164" duration="1010000" />
+      <workItem from="1543229056918" duration="497000" />
+      <workItem from="1543229588589" duration="653000" />
+      <workItem from="1543235412288" duration="982000" />
+      <workItem from="1543281270185" duration="39000" />
+      <workItem from="1543386775236" duration="11460000" />
+      <workItem from="1543418865100" duration="535000" />
+      <workItem from="1543483493146" duration="1326000" />
+      <workItem from="1543488230250" duration="60000" />
+      <workItem from="1543488398777" duration="210000" />
+      <workItem from="1543584594277" duration="157000" />
+      <workItem from="1543586418822" duration="161000" />
+      <workItem from="1543589286581" duration="864000" />
+      <workItem from="1543593605618" duration="3222000" />
+      <workItem from="1543597074686" duration="3297000" />
+      <workItem from="1543737734449" duration="6030000" />
+      <workItem from="1543744175764" duration="2278000" />
+      <workItem from="1543832126557" duration="23000" />
+      <workItem from="1543832671589" duration="934000" />
+      <workItem from="1543890363262" duration="6666000" />
+      <workItem from="1543903880792" duration="7263000" />
+      <workItem from="1543934589847" duration="1041000" />
+      <workItem from="1543984993923" duration="5480000" />
+      <workItem from="1543991142278" duration="563000" />
+      <workItem from="1543994552865" duration="985000" />
+      <workItem from="1544002383999" duration="17000" />
+      <workItem from="1544005209319" duration="103000" />
+      <workItem from="1544011867901" duration="34000" />
+      <workItem from="1544020717193" duration="220000" />
+      <workItem from="1544022575171" duration="3440000" />
+      <workItem from="1544173884739" duration="744000" />
+      <workItem from="1544361702577" duration="502000" />
+      <workItem from="1544700172569" duration="3629000" />
+      <workItem from="1545210677054" duration="259000" />
+      <workItem from="1545451873951" duration="5746000" />
+      <workItem from="1545748061265" duration="5400000" />
+      <workItem from="1545755306738" duration="1424000" />
+      <workItem from="1545759678983" duration="31000" />
+      <workItem from="1547137884694" duration="66000" />
+      <workItem from="1547276906994" duration="269000" />
+      <workItem from="1552881189105" duration="199000" />
+      <workItem from="1552881442077" duration="184000" />
+      <workItem from="1553868598777" duration="218000" />
+      <workItem from="1553869595166" duration="1323000" />
+      <workItem from="1556114871331" duration="657000" />
+      <workItem from="1556116432804" duration="141000" />
+      <workItem from="1556166091049" duration="26000" />
+      <workItem from="1558611912573" duration="630000" />
+      <workItem from="1560783290637" duration="144000" />
+      <workItem from="1560846977197" duration="396000" />
+      <workItem from="1563981544665" duration="87000" />
+      <workItem from="1568601304788" duration="2516000" />
+      <workItem from="1568604083965" duration="1228000" />
+      <workItem from="1568643496302" duration="7568000" />
+      <workItem from="1568653242661" duration="3468000" />
+      <workItem from="1568694461995" duration="3054000" />
+      <workItem from="1568709891215" duration="5232000" />
+      <workItem from="1568715223768" duration="39000" />
+      <workItem from="1568731249544" duration="1904000" />
+      <workItem from="1568776862575" duration="643000" />
+      <workItem from="1568975123567" duration="4451000" />
+      <workItem from="1569116305114" duration="674000" />
+      <workItem from="1569117251818" duration="14024000" />
+      <workItem from="1569131772672" duration="2483000" />
+      <workItem from="1569166166307" duration="4399000" />
+      <workItem from="1569546154974" duration="3548000" />
+      <workItem from="1569564220793" duration="2036000" />
+      <workItem from="1569596782472" duration="2557000" />
+      <workItem from="1569643600362" duration="170000" />
+      <workItem from="1569776713069" duration="362000" />
+      <workItem from="1569915238197" duration="89000" />
+      <workItem from="1570337134942" duration="4060000" />
+      <workItem from="1570341386174" duration="1152000" />
+      <workItem from="1570342585911" duration="6930000" />
+      <workItem from="1570709983758" duration="1235000" />
+      <workItem from="1570719378893" duration="1314000" />
+      <workItem from="1570797238053" duration="209000" />
+      <workItem from="1570846357118" duration="5378000" />
+      <workItem from="1570930536323" duration="72000" />
+      <workItem from="1570932214691" duration="833000" />
+      <workItem from="1571021338567" duration="3103000" />
+      <workItem from="1571306813999" duration="15843000" />
+      <workItem from="1571410356093" duration="8267000" />
+      <workItem from="1571422991923" duration="820000" />
+      <workItem from="1571423868715" duration="775000" />
+      <workItem from="1571484892199" duration="515000" />
+      <workItem from="1571625065097" duration="3434000" />
+      <workItem from="1572228514082" duration="4926000" />
+      <workItem from="1572344504066" duration="744000" />
+      <workItem from="1572400350605" duration="967000" />
+      <workItem from="1572597641555" duration="392000" />
+      <workItem from="1572601647087" duration="693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="205824000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="712" y="0" width="734" height="968" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880382" visible="true" weight="0.3195266" />
+      <window_info id="Structure" order="1" sideWeight="0.5011261" side_tool="true" weight="0.13037036" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50119615" side_tool="true" weight="0.26222223" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32938388" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18127961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32819906" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32938388" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32819906" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32938388" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32938388" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/。/java/绘图工具/src/绘图工具/DrawJFrame.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/Canvas.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/绘图工具/DrawJFrame.class" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/event/MouseMotionListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyDraw.java" />
+    <entry file="file://$PROJECT_DIR$/src/MYPAINT.java" />
+    <entry file="file://$PROJECT_DIR$/src/LoanJFramea.java" />
+    <entry file="file://$PROJECT_DIR$/src/LoanJFrame.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/event/MouseListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/Mypanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oval.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/LineB.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/Rect.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/Oval.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/Line.java" />
+    <entry file="file://$PROJECT_DIR$/src/Draw.java" />
+    <entry file="file://$PROJECT_DIR$/src/Draw.form" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/Draw.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/ShapeList.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/jhgjy.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawOval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawRect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/DrawCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="74" column="10" lean-forward="true" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DrawCanvas#0;class#DrawCanvas#0" />
+            <element signature="method#mouseClicked#0;class#DrawCanvas#0" />
+            <element signature="method#mouseEntered#0;class#DrawCanvas#0" />
+            <element signature="method#mouseExited#0;class#DrawCanvas#0" />
+            <element signature="method#mouseMoved#0;class#DrawCanvas#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/Factory.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/Style.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/EraserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/LineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawCurve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mouseClicked#0;class#ShapeFactory#0" />
+            <element signature="method#mouseEntered#0;class#ShapeFactory#0" />
+            <element signature="method#mouseExited#0;class#ShapeFactory#0" />
+            <element signature="method#mouseMoved#0;class#ShapeFactory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/RectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/TriangleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/draw/DrawLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/OvalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/factory/CurveFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDraw/DrawJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DrawJFrame#0;class#DrawJFrame#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>绘图工具:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>绘图工具</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
